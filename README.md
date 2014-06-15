@@ -20,6 +20,6 @@ To customise for your needs:
 This should create your tickets.
 
 Now, to send your tickets.
-1. Import AutoEmail.bas into your Outlook.
+1. Import AutoAttach.bas into your Outlook.
 2. This macro is not very polished. You will need to read through and replace a lot of hard-coded stuff with your own. Fortunately, it is a very simple and short sub.
 3. First run the macro with the Send line commented and the Save and Display lines uncommented. Once you are satisfied, you can use the Send line to actually get the e-mails out.
