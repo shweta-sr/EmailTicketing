@@ -5,7 +5,7 @@ A combination of MS Word, MS Excel &amp; MS Outlook apps to create and send cust
 
 Download all files to one folder.
 
-First, take a look at the Word DOCM. This is the template based upon which the tickets are created. All the fields within the template that ought to be replaced with actual values are within # marks. And, of course, replace images and wording as applicable.
+First, take a look at the Word DOCM. This is the template based upon which the tickets are created. All the fields within the template that ought to be replaced with actual values are within # marks.
 
 Next, look at the Excel file. It has just one tab and is the database of info needed to create your tickets. Cell A1 contains the path where you want the PDF tickets saved. 
 
@@ -16,6 +16,7 @@ To customise for your needs:
  b. Keep names in column A, e-mail addresses in column B and the formula for file path and name in column T (although, if you wish, you can change the *names* of the columns).
  c. Clear away Indus' columns and place your own column names and data.
 3. Go back to the Word document and run the macro MergeDocs.
+4. It will prompt you for the location of the Excel file. Navigate to the Excel file and choose it.
 
 This should create your tickets.
 
